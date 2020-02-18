@@ -1,4 +1,3 @@
-EN|[CN](README.osc.md)
 #### Model Description
 
 Image classification inference model

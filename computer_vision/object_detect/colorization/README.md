@@ -1,4 +1,3 @@
-EN|[CN](README.osc.md)
 #### Model Description
 
 Black and white album coloring

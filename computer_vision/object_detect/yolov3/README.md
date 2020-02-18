@@ -1,4 +1,3 @@
-EN|[CN](README.osc.md)
 #### Model Description
 Network model for yolov3 detection
 
